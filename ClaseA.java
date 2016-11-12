@@ -10,5 +10,9 @@ public class ClaseA{
     codigo = "";
   }
   
+  public void mensaje(){
+	  System.out.println("Hola");
+  }
+  
  }
 
